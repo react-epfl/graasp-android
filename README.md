@@ -1,7 +1,7 @@
 Graasp - android app
 ====================
 
-A simple android app that wraps the Graasp website and adds some loading feedback.
+This project contains a simple Android app that wraps the Graasp website (http://graasp.epfl.ch) with data loading feedback.
 
 The app consists of a WebView to display the Graasp website (http://graasp.epfl.ch). Feedback on the loading of the WebView is shown in the top bar.
 
