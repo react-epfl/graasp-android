@@ -8,7 +8,6 @@ The app consists of a WebView to display the Graasp website (http://graasp.epfl.
 Known Issues
 ------------
 
-* The URL of the WebView should be saved and reloaded when the Activity is reloaded.
 * The Graasp website should be slightly reformated when a mobile device is used, e.g. the top bar should resize better.
 
 Future work
